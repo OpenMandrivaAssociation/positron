@@ -11,7 +11,6 @@ License: BSD
 Group: Sound
 BuildArchitectures: noarch
 Url: http://www.xiph.org/positron/
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: pyogg, pyvorbis, python-devel
 
 %description
