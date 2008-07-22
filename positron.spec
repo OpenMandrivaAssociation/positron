@@ -1,6 +1,6 @@
 %define name positron
 %define version 1.1
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary: A synchronization manager for the Neuros Audio Computer
 Name: %{name}
