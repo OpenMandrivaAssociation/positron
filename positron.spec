@@ -10,7 +10,7 @@ Source0: %{name}-%{version}.tar.bz2
 License: BSD
 Group: Sound
 BuildArchitectures: noarch
-Url: http://www.xiph.org/positron/
+Url: https://www.xiph.org/positron/
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: pyogg, pyvorbis, python-devel
 
